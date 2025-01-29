@@ -5,4 +5,4 @@ fl_chart パッケージを利用してグラフを表示する練習です。
 
 # DEMO
 
-![Image](https://github.com/user-attachments/assets/830db2f5-9cb4-468a-a6f5-f94fe1b70b00)
+![Image](https://github.com/user-attachments/assets/b3b9d062-ebca-4d53-99c7-a16f0c240d99)

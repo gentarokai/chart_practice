@@ -23,7 +23,7 @@ class IconBadge extends StatelessWidget {
         shape: BoxShape.circle,
         border: Border.all(
           color: borderColor,
-          width: 2,
+          width: 1,
         ),
         boxShadow: <BoxShadow>[
           BoxShadow(

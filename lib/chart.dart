@@ -65,25 +65,7 @@ class PieChartSample3State extends State<PieChartSample3> {
             sectionsSpace: 2,
             centerSpaceRadius: 50,
             sections: showingSections(),
-          )
-              // PieChartData(
-              //   pieTouchData: PieTouchData(
-              //     touchCallback: (FlTouchEvent event, pieTouchResponse) {
-              //       if (!event.isInterestedForInteractions ||
-              //           pieTouchResponse?.touchedSection == null) {
-              //         setState(() => touchedIndex = -1);
-              //         return;
-              //       }
-              //       _onSectionSelected(
-              //           pieTouchResponse!.touchedSection!.touchedSectionIndex);
-              //     },
-              //   ),
-              //   borderData: FlBorderData(show: false),
-              //   sectionsSpace: 2,
-              //   centerSpaceRadius: 50, // 真ん中の穴を大きく
-              //   sections: showingSections(),
-              // ),
-              ),
+          )),
         ),
         const SizedBox(height: 20),
         Column(
